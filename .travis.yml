@@ -3,5 +3,5 @@ sudo: false
 language: ruby
 
 rvm:
-	- '1.9.3'
-	- '2.1'
+  - '1.9.3'
+  - '2.1'
